@@ -1,1 +1,4 @@
 language: java
+script:
+- cd qp3
+- mvn test
